@@ -9,4 +9,5 @@ List of resources to learning web development with the LEMP stack.
 
 ## PHP
 
+- [PHP Apprentice](https://phpapprentice.com/)
 - [PHP: The Right Way](https://phptherightway.com/)
