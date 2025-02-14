@@ -2,6 +2,10 @@
 
 List of resources to learning web development with the LEMP stack.
 
+## GNU/Linux
+
+- [GNU/Linux Desktop Survival Guide](https://www.togaware.com/linux/survivor/)
+
 ## JavaScript
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
