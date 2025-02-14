@@ -1,6 +1,6 @@
 # LEMP Learning
 
-List of resources to learning web development with the LEMP stack.
+List of resources to learning chess web development at ChesslaBlab with the LEMP stack.
 
 ## GNU/Linux
 
