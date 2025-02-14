@@ -19,6 +19,6 @@ List of resources to learning chess web development at ChesslaBlab with the LEMP
 - [PHP Apprentice](https://phpapprentice.com/)
 - [PHP: The Right Way](https://phptherightway.com/)
 
-### HTTP Frameworks
+### HTTP Framework
 
 - [Symfony: The Fast Track](https://symfony.com/book)
